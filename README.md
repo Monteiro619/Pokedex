@@ -13,3 +13,7 @@ Uma Pokédex online que utiliza a **PokeAPI** para buscar informações sobre Po
 - **CSS**
 - **JavaScript**
 - **PokeAPI** (https://pokeapi.co/)
+
+## Demonstração
+
+<img src="Pokedex.main/imagens/GIF">
